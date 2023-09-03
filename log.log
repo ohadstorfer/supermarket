@@ -1,2 +1,3 @@
-2023-09-02 22:58:18,641 - DEBUG - User succeeded in adding {'name': 'Bread', 'price': 2.5, 'availability': 20} to the cart
-2023-09-02 22:58:29,869 - ERROR - User entered an invalid payment method: 5
+2023-09-03 14:07:06,551 - DEBUG - User added {'name': 'Eggs', 'price': 1.8, 'availability': 39} to the cart 
+2023-09-03 14:07:17,035 - ERROR - User entered an invalid payment method: t
+2023-09-03 14:07:22,939 - DEBUG - User paid successfully
